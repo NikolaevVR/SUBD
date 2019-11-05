@@ -1,0 +1,20 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=help_me_please_don't_kill.chm
+Contents file=Table of Contents.hhc
+Default topic=Главное окно.htm
+Display compile progress=No
+Full text search stop list file=search.stp
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x419 Русский (Россия)
+Title=Help_me
+
+
+[FILES]
+Анализ данных.htm
+Главное окно.htm
+Изменение данных.htm
+
+[INFOTYPES]
+
